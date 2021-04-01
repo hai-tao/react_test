@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import FilterableProductTable from './test';
+import FilterableProductTable from './FilterableProductTable';
 import reportWebVitals from './reportWebVitals';
 const PRODUCTS = [
   { category: 'Sporting Goods', price: '$49.99', stocked: true, name: 'Football' },
